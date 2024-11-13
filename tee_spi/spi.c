@@ -4,6 +4,9 @@
   */
 
 #include "spi_reg.h"
+int a = 123;
+// git add 123
+#include "spi_reg.h"  12345 
 #include "spi.h"
 
 
